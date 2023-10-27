@@ -1,5 +1,10 @@
 # Generate-Video-audio-image-
 Video Generator and Uploader
+
+preview videos and uploads : 
+https://www.youtube.com/channel/UCO6nxS6JRQdv1VSXtmAbBDA
+
+
 Project Overview
 
 This program is designed to create videos by combining audio from the "Audio" folder, images from the "Images" folder, and adding customizable text with various effects. The generated video is saved in the "Output" folder. Additionally, this program provides the capability to upload the created videos from the "Output" folder to YouTube.
